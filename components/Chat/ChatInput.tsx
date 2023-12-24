@@ -1,5 +1,5 @@
 import {
-  IconArrowDown,
+  IconArrowDown
   IconBolt,
   IconBrandGoogle,
   IconPlayerStop,
